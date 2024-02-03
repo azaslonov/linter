@@ -1,0 +1,52 @@
+[
+    {
+        "code": "oas3-api-servers",
+        "message": "OpenAPI \"servers\" must be present and non-empty array.",
+        "path": [],
+        "severity": 1,
+        "range": {
+            "start": {
+                "line": 0,
+                "character": 0
+            },
+            "end": {
+                "line": 0,
+                "character": 146
+            }
+        }
+    },
+    {
+        "code": "oas3-schema",
+        "message": "Object must have required property \"paths\".",
+        "path": [],
+        "severity": 0,
+        "range": {
+            "start": {
+                "line": 0,
+                "character": 0
+            },
+            "end": {
+                "line": 0,
+                "character": 146
+            }
+        }
+    },
+    {
+        "code": "info-contact",
+        "message": "Info object must have \"contact\" object.",
+        "path": [
+            "info"
+        ],
+        "severity": 1,
+        "range": {
+            "start": {
+                "line": 0,
+                "character": 26
+            },
+            "end": {
+                "line": 0,
+                "character": 146
+            }
+        }
+    }
+]
